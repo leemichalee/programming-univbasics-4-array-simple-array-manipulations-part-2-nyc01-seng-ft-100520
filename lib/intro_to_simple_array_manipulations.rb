@@ -5,3 +5,5 @@ end
 def using_insert (array, element)
   array.insert(element)
 end
+
+def using_flatten
